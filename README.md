@@ -5,6 +5,11 @@ Para evitar estos re-renderizados innecesarios, React tiene una herramienra Reac
 De manera similar, cuando se generan listas dinamicas utilizando map(), React necesita identificar correctamente cada elemento para aplicar la reconciliación de forma eficiente. Por lo que utiliza la propiedad Key que debe ser unica y estable, ya que si la Key cambia entre renders, React puede interpretar incorrectamente que un elemento es otro distinto, lo cual provocaria re-renderizados innecesarios o comportamientos inesperados en la interfaz. Es por eso que se recomienda utilizar identificadores unicos como un id en lugar del indice del arreglo, especialmente en listas que pueden modificarse dinamicamente.
 Por lo tanto, React.memo y el uso correcto de Key en listas generadas con map() estan directamente relacionados al funcionamiento del Virtual DOM, ya que influyen en como React realiza la reconciliación y decide que partes del árbol deben actualizarse o volver a renderizarse.
 
+Wendy - Investigación
+Emiliano - Dashboard, about, map()
+Juan Andrés - 
+Jose Alfredo - 
+
 
 ## Referencias  
 DOM virtual y detalles de implementación – React. (s. f.). React.         https://es.legacy.reactjs.org/docs/faq-internals.html
