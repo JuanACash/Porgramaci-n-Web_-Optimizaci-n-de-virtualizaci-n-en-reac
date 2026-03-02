@@ -9,9 +9,9 @@ Wendy - Investigación
 
 Emiliano - Dashboard, about, map()
 
-Juan Andrés - Contador
+Juan Andrés - Contador home
 
-Jose Alfredo - 
+Jose Alfredo - Ayuda Investigación
 
 
 ## Referencias  
