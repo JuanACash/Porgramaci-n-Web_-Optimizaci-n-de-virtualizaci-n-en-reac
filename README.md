@@ -6,8 +6,11 @@ De manera similar, cuando se generan listas dinamicas utilizando map(), React ne
 Por lo tanto, React.memo y el uso correcto de Key en listas generadas con map() estan directamente relacionados al funcionamiento del Virtual DOM, ya que influyen en como React realiza la reconciliación y decide que partes del árbol deben actualizarse o volver a renderizarse.
 
 Wendy - Investigación
+
 Emiliano - Dashboard, about, map()
-Juan Andrés - 
+
+Juan Andrés - Contador
+
 Jose Alfredo - 
 
 
